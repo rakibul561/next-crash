@@ -1,4 +1,5 @@
  import React from 'react'
+//  throw new Error("there was a huge error!")
  
  function About () {
    return (
